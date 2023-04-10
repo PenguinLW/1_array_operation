@@ -1,7 +1,7 @@
 #in venv
 #pip install -r req.txt
 pip freeze > req.txt
-#git clone -o 1_array_operation https://github.com/Kovalsky95/1_array_operation.git
+#git clone -o 1_array_operation https://github.com/PenguinLW/1_array_operation.git
 #git config --global credential.helper cache
 git config --global credential.helper "cache --timeout=25200"
 #git config credential.helper store
