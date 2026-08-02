@@ -26,3 +26,5 @@ hs_err_pid*
 gitignore
 .idea/*
 bin/*
+# macOS Finder metadata
+.DS_Store
